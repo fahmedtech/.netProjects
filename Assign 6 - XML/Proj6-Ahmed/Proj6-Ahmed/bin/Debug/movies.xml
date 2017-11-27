@@ -1,0 +1,23 @@
+<Movies>
+  <Movie>
+    <Name>The Godfather</Name>
+    <Genre>Drama</Genre>
+    <Plot>Based on Mario Puzo's Novel of same name.</Plot>
+    <Rating>R - Restricted</Rating>
+    <Year>1972</Year>
+  </Movie>
+  <Movie>
+    <Name>Captain America: Civil War</Name>
+    <Genre>Action</Genre>
+    <Plot>Sequel to Winter Soldier.</Plot>
+    <Rating>PG - Parental Guidance</Rating>
+    <Year>2016</Year>
+  </Movie>
+  <Movie>
+    <Name>The Lion King</Name>
+    <Genre>Animation</Genre>
+    <Plot>Disney's Animated Epic Musical Film.</Plot>
+    <Rating>G - General Audiences</Rating>
+    <Year>1994</Year>
+  </Movie>
+</Movies>

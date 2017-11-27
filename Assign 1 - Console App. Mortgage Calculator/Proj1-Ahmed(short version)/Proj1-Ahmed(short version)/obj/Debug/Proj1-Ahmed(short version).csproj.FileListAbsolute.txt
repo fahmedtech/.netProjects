@@ -1,0 +1,12 @@
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).exe.config
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).exe
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).pdb
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).exe
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).pdb
+C:\Users\Ahmed\Desktop\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).exe.config
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\bin\Debug\Proj1-Ahmed(short version).pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 1 - Console App. Mortgage Calculator\Proj1-Ahmed(short version)\Proj1-Ahmed(short version)\obj\Debug\Proj1-Ahmed(short version).csprojResolveAssemblyReference.cache

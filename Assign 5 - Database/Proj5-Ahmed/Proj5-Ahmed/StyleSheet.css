@@ -1,0 +1,90 @@
+﻿/*
+    Name: Faizan Ahmed
+    IT330 - Assignment #5
+*/
+
+/* CSS used throughout referenced pages */
+body {
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+/* --- FormPage.aspx Page CSS --- */
+
+/* CSS classes - used for styling */
+.font {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+div.unit {
+    border: 3px solid rgb(51,153,255);
+    width: 50%;
+    padding: 5px;
+    border-radius: 25px;
+    margin: 0 auto;
+    background-color: rgb(51,153,255);
+}
+
+/* CSS id(s) - used for styling */
+#heading h1 {
+    color: #fff;
+    text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px rgb(51,153,255), 0 0 12px rgb(51,153,255), 0 0 15px rgb(51,153,255), 0 0 18px rgb(51,153,255), 0 0 25px rgb(51,153,255), 0 0 30px rgb(51,153,255);
+    letter-spacing: 5px;
+    font: 35px 'MisoRegular';
+    display: block;
+    text-align: center;
+}
+
+#heading2 h2 {
+    color: #fff;
+    text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px rgb(255,120,0), 0 0 12px rgb(255,120,0), 0 0 15px rgb(255,120,0), 0 0 18px rgb(255,120,0), 0 0 25px rgb(255,120,0), 0 0 30px rgb(255,120,0);
+    letter-spacing: 5px;
+    font: 20px 'MisoRegular';
+    display: block;
+    text-align: center;
+}
+
+
+/* --- view-applications.aspx Page CSS --- */
+
+/* CSS id(s) - used for styling */
+#headingView h1 {
+    color: #fff;
+    text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px rgb(255,120,0), 0 0 12px rgb(255,120,0), 0 0 15px rgb(255,120,0), 0 0 18px rgb(255,120,0), 0 0 25px rgb(255,120,0), 0 0 30px rgb(255,120,0);
+    letter-spacing: 5px;
+    font: 35px 'MisoRegular';
+    display: block;
+    text-align: center;
+}
+
+#heading2View h2 {
+    color: #fff;
+    text-shadow: 0 0 2px #fff, 0 0 4px #fff, 0 0 8px rgb(51,153,255), 0 0 12px rgb(51,153,255), 0 0 15px rgb(51,153,255), 0 0 18px rgb(51,153,255), 0 0 25px rgb(51,153,255), 0 0 30px rgb(51,153,255);
+    letter-spacing: 5px;
+    font: 20px 'MisoRegular';
+    display: block;
+    text-align: center;
+}
+
+/* CSS classes - used for styling */
+div.unitView {
+    border: 3px solid rgb(255,120,0);
+    width: 50%;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 auto;
+    background-color: rgb(255,120,0);
+}
+
+.fontView {
+    /*text-align: center;*/
+    font-size: 18px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}

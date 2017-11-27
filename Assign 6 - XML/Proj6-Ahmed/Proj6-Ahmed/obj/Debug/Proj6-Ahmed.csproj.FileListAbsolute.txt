@@ -1,0 +1,28 @@
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.exe.config
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.exe
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.pdb
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.g.resources
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6_Ahmed.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.exe
+C:\Users\Ahmed\Desktop\El Bokhari\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.exe.config
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\bin\Debug\Proj6-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.g.resources
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6_Ahmed.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Proj6-Ahmed\Proj6-Ahmed\obj\Debug\Proj6-Ahmed.csproj.GenerateResource.Cache

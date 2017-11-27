@@ -1,0 +1,38 @@
+﻿/*
+    Name: Faizan Ahmed
+    IT330 - Assignment #6
+*/
+
+body {
+}
+
+.center {
+    text-align: center;
+}
+
+/* ----- XMLFileReader.aspx CSS ----- */
+
+#heading2View h2 {
+    color: #000;
+    letter-spacing: 3px;
+    font: 20px 'MisoRegular';
+    display: block;
+    text-align: center;
+}
+
+/* CSS classes - used for styling */
+div.unitView {
+    border: 3px solid #006600;
+    width: 50%;
+    padding: 5px;
+    border-radius: 15px;
+    margin: 0 auto;
+    background-color: #006600;
+}
+
+.fontView {
+    /*text-align: center;*/
+    font-size: 18px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}

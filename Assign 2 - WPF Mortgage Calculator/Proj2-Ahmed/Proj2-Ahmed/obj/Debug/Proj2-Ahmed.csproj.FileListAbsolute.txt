@@ -1,0 +1,31 @@
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.exe.config
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\App.g.cs
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed_MarkupCompile.cache
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed_MarkupCompile.lref
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.g.resources
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2_Ahmed.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.exe.config
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\MainWindow.g.cs
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\App.g.cs
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed_MarkupCompile.cache
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed_MarkupCompile.lref
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.g.resources
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2_Ahmed.Properties.Resources.resources
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Downloads\IT Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\bin\Debug\Proj2-Ahmed.exe.config
+C:\Users\Ahmed\Downloads\IT Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.exe
+C:\Users\Ahmed\Downloads\IT Spring 2016\IT330 - User Interface\330 - Assignments\Assign 2 - WPF Mortgage Calculator\Proj2-Ahmed\Proj2-Ahmed\obj\Debug\Proj2-Ahmed.pdb

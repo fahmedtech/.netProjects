@@ -1,0 +1,27 @@
+﻿<Window x:Class="Proj3_Ahmed_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proj3_Ahmed_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="480">
+    <Grid>
+        <Image x:Name="imgDisplay" HorizontalAlignment="Left" Height="171" Margin="254,37,0,0" VerticalAlignment="Top" Width="175"/>
+        <Button x:Name="btnDepositQuarter" Content="Deposit Quarter" HorizontalAlignment="Left" Margin="33,260,0,0" VerticalAlignment="Top" Width="109" RenderTransformOrigin="-0.492,0.548" Click="btnDepositQuarter_Click" ToolTip="Insert 1 Quarter in Machine"/>
+        <Label x:Name="lblCountQuarter" Content="0" HorizontalAlignment="Left" Margin="413,251,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label x:Name="lblSelectCandy" Content="First Insert Quarters then&#xD;&#xA;Please Select Candy to dispense:" HorizontalAlignment="Left" Margin="33,60,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnSnickers" Content="Snickers" HorizontalAlignment="Left" Margin="33,162,0,0" VerticalAlignment="Top" Width="75" Click="btnSnickers_Click" ToolTip="Buy Snickers Candy" />
+        <Button x:Name="btnKitKat" Content="Kit-Kat" HorizontalAlignment="Left" Margin="33,209,0,0" VerticalAlignment="Top" Width="75" Click="btnKitKat_Click" ToolTip="Buy KitKat Candy"/>
+        <Button x:Name="btnTwix" Content="Twix" HorizontalAlignment="Left" Margin="33,120,0,0" VerticalAlignment="Top" Width="75" Click="btnTwix_Click" ToolTip="Buy Twix Candy"/>
+        <Label x:Name="lblRemain" Content="Remaining Candybars:" HorizontalAlignment="Left" Margin="280,225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl3Quarters" Content="3 Quarters Candy bars" HorizontalAlignment="Left" Margin="33,25,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18.667"/>
+        <Label x:Name="lblCountCandies" Content="0" HorizontalAlignment="Left" Margin="413,225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblQuartersLabel" Content="Quarters inserted in Machine:" HorizontalAlignment="Left" Margin="242,251,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblCountTwix" Content="0" HorizontalAlignment="Left" Margin="126,116,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblCountSnickers" Content="0" HorizontalAlignment="Left" Margin="126,162,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblCountKitkat" Content="0" HorizontalAlignment="Left" Margin="126,209,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblFaizanAhmed" Content="VendingMachine by Faizan Ahmed" HorizontalAlignment="Left" Margin="33,10,0,0" VerticalAlignment="Top" Width="208" FontStyle="Italic" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

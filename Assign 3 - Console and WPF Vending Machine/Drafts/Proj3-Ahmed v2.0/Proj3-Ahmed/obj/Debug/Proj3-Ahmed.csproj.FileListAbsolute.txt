@@ -1,0 +1,18 @@
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe.config
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj3-Ahmed\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe.config
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Desktop\Proj3-Ahmed - Copy\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe.config
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.exe
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\bin\Debug\Proj3-Ahmed.pdb
+C:\Users\Ahmed\Downloads\Spring 2016\IT330 - User Interface\330 - Assignments\Assign 3 - Console and WPF Vending Machine\Drafts\Proj3-Ahmed v2.0\Proj3-Ahmed\obj\Debug\Proj3-Ahmed.csprojResolveAssemblyReference.cache
